@@ -4,7 +4,7 @@ nmap:
 
 entramos a la pagina que esta en el puerto 80
 
-![[tryhackme/easy/chocolate factory/pagina1.png]]
+![image](https://github.com/user-attachments/assets/77a96fe0-4bdb-43e9-9dbd-1ecef4c9b00e)
 
 no hay mucho, tampoco en el código fuente. Vemos que hay en el puerto 21, le hacemos un escaneo
 
