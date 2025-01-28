@@ -55,7 +55,7 @@ después de probar varias cosas ahí podemos lanzar una shell python3#2 https://
 
 la colocamos en el ejecutable y colocamos la terminal en escucha y lanzamos
 
-![[tryhackme/easy/chocolate factory/conexion.png]]
+![image](https://github.com/user-attachments/assets/f5e20c09-e90e-4dd2-9d31-99a7b5c58b84)
 
 dentro en home/charlie encontré esto 
 
