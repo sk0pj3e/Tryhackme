@@ -65,7 +65,7 @@ que podemos pasarlo para poder entrar a charlie creando un rsa sin necesidad de 
 
      ssh -i id_rsa charlie@10.10.132.145
 
-![[tryhackme/easy/chocolate factory/conexion2.png]]
+![image](https://github.com/user-attachments/assets/b7807504-d71a-4bdd-9429-692294130b19)
 
 y obtenemos conexión a charlie.
 al hacer un sudo -l veremos que se puede escalar por "vi" buscamos en https://gtfobins.github.io/gtfobins/vi/#sudo
