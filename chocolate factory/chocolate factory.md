@@ -24,7 +24,7 @@ con exiftool no da información importante, extraemos los metadatos de la imagen
 
 y nos da
 
-![[steeg.png]]
+![image](https://github.com/user-attachments/assets/abf2e269-2b66-466f-a082-2ea1654fb350)
 
 como en el final da esa "= =" pienso que es base64 porque aparte cuando lance el comando dio esto
 
