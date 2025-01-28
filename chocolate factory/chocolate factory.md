@@ -49,7 +49,7 @@ obtenemos la contraseña que podríamos probar en el login como en el ssh, si pr
 
 en el cuadro de ahí si ejecutamos por ejemplo whoami nos da información
 
-![[whoami.png]]
+![image](https://github.com/user-attachments/assets/1e1eb607-138b-469b-a2f0-feb6f7652bd4)
 
 después de probar varias cosas ahí podemos lanzar una shell python3#2 https://www.revshells.com/
 
