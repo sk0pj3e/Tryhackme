@@ -41,7 +41,7 @@ creamos un hash con la ultima linea y lanzamos con jhon
 
      john contraseña.hash --wordlist=/usr/share/wordlists/rockyou.txt
 
-![[john.png]]
+![image](https://github.com/user-attachments/assets/4c47256a-51ca-4c2c-93a4-8e5951cfcacd)
 
 obtenemos la contraseña que podríamos probar en el login como en el ssh, si probamos en el login nos manda aqui
 
