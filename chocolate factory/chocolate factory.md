@@ -16,7 +16,7 @@ vemos que no tiene password y que se conecta con el nombre "anonymous" y nos pas
 
 la imagen son dulces
 
-![[imagen.png]]
+![image](https://github.com/user-attachments/assets/3dc20c30-9330-4d50-a4bb-e45d9d9cfb64)
 
 con exiftool no da información importante, extraemos los metadatos de la imagen con
 
