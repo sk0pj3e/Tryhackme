@@ -8,7 +8,7 @@ entramos a la pagina que esta en el puerto 80
 
 no hay mucho, tampoco en el código fuente. Vemos que hay en el puerto 21, le hacemos un escaneo
 
-![[tryhackme/easy/chocolate factory/ftp.png]]
+![image](https://github.com/user-attachments/assets/9e51ed5f-543a-4a60-a206-d6737cfcc055)
 
 vemos que no tiene password y que se conecta con el nombre "anonymous" y nos pasamos la imagen que contiene
 
