@@ -12,7 +12,7 @@ no hay mucho, tampoco en el código fuente. Vemos que hay en el puerto 21, le ha
 
 vemos que no tiene password y que se conecta con el nombre "anonymous" y nos pasamos la imagen que contiene
 
-![[ftp2.png]]
+![image](https://github.com/user-attachments/assets/3a39b7bc-340b-4a44-bbfd-f33d1585fc7b)
 
 la imagen son dulces
 
