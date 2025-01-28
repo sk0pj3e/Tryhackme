@@ -59,7 +59,7 @@ la colocamos en el ejecutable y colocamos la terminal en escucha y lanzamos
 
 dentro en home/charlie encontré esto 
 
-![[rsa.png]]
+![image](https://github.com/user-attachments/assets/24526083-812a-4eb0-9474-5c068eb229be)
 
 que podemos pasarlo para poder entrar a charlie creando un rsa sin necesidad de saber la contraseña en si, creamos con nano un "id_rsa" dentro colocamos la clave que nos dio, le damos permisos 600 e intentamos ingresa
 
