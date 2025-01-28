@@ -34,7 +34,7 @@ el bs64.txt es porque tiene que ser base64, lo pasamos a esta pagina que aparece
 
 y nos da como el contenido de "/etc/passwd" 
 
-![[tryhackme/easy/chocolate factory/base64.png]]
+![image](https://github.com/user-attachments/assets/0a25ab61-fa3f-4ad4-a2b0-9f8cd42b9990)
 
 y la ultima linea tiene un usuario "charlie" y con un hash que podría ser la contraseña 
 creamos un hash con la ultima linea y lanzamos con jhon
