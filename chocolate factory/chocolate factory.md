@@ -1,6 +1,6 @@
 nmap: 
 
-![[tryhackme/easy/chocolate factory/nmap.png]]
+![image](https://github.com/user-attachments/assets/d16c07ba-9aa8-4742-a50e-a4dd478c52d6)
 
 entramos a la pagina que esta en el puerto 80
 
