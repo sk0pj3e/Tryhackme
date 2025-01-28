@@ -28,7 +28,7 @@ y nos da
 
 como en el final da esa "= =" pienso que es base64 porque aparte cuando lance el comando dio esto
 
-![[bs64.png]]
+![image](https://github.com/user-attachments/assets/38c41722-4332-4bf6-9ea6-41f0fe5e2bd8)
 
 el bs64.txt es porque tiene que ser base64, lo pasamos a esta pagina que aparece de las primeras https://www.base64decode.org/
 
