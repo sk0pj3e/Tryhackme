@@ -45,7 +45,7 @@ creamos un hash con la ultima linea y lanzamos con jhon
 
 obtenemos la contraseña que podríamos probar en el login como en el ssh, si probamos en el login nos manda aqui
 
-![[tryhackme/easy/chocolate factory/login.png]]
+![image](https://github.com/user-attachments/assets/b3e0a21c-ca70-4512-96aa-e2dd0916189d)
 
 en el cuadro de ahí si ejecutamos por ejemplo whoami nos da información
 
